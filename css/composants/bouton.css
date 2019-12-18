@@ -1,0 +1,14 @@
+.btn-acceuil{
+	background-color: rgb(60, 60, 222);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Rubik', sans-serif;
+}
+
+.btn-acceuil:hover{
+	background-color: green;
+	text-decoration: underline;
+}
+
